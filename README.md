@@ -1,5 +1,5 @@
 <section style="border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9;">
-<h1 align="center">✨ ɪgnisᴘath ✨</h1>
+<h1 align="center">✨ IgnisPath ✨</h1>
 
     We are your solution!
     A company focused on developing software solutions, from websites to more robust applications.
